@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Dependencies
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
+~$*
